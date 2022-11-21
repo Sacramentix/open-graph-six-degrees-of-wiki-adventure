@@ -90,7 +90,7 @@ export default async function handler(req: NextRequest) {
                 wordBreak: 'break-word',
               }}
             >
-              {/* {startPage.title} */"Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karabo­melito­katakechy­meno­kichl­epi­kossypho­phatto­perister­alektryon­opte­kephallio­kigklo­peleio­lagoio­siraio­baphe­tragano­pterygon"}
+              {startPage.title}
             </div>
           </div>
             <svg style={{margin: '25px'}} width="50" height="50" viewBox="0 0 24 24"><path fill="currentColor" d="M11.3 19.3q-.275-.275-.288-.7q-.012-.425.263-.7l4.9-4.9H5q-.425 0-.713-.288Q4 12.425 4 12t.287-.713Q4.575 11 5 11h11.175l-4.9-4.9q-.275-.275-.263-.7q.013-.425.288-.7q.275-.275.7-.275q.425 0 .7.275l6.6 6.6q.15.125.213.312q.062.188.062.388t-.062.375q-.063.175-.213.325l-6.6 6.6q-.275.275-.7.275q-.425 0-.7-.275Z"/></svg>
@@ -119,7 +119,7 @@ export default async function handler(req: NextRequest) {
                 wordBreak: 'break-word',
               }}
             >
-              {/* {endPage.title} */"Cneoridium dumosum (Nuttall) Hooker F. Collected March 26, 1960, at an Elevation of about 1450 Meters on Cerro Quemazón, 15 Miles South of Bahía de Los Angeles, Baja California, México, Apparently for a Southeastward Range Extension of Some 140 Miles "}
+              {endPage.title}
             </div>
           </div>
         </div>
