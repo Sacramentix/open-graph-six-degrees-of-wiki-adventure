@@ -1,0 +1,2282 @@
+<svg width="1200" height="630" version="1.1" viewBox="0 0 317.5 166.7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient130563" x1="107" x2="317.5" y1="120.1" y2="2.95e-6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#c3fdff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <rect width="317.5" height="166.7" ry="0" fill="url(#linearGradient130563)" stroke="#12e6ee" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".8" stroke-width=".2646" style="paint-order:markers fill stroke"/>
+  <g transform="translate(6.088 -2.135)" fill="#fff">
+   <g fill="#fff">
+    <g transform="translate(4.864 -4.864)" fill="#fff">
+     <g transform="matrix(2.128 0 0 2.128 -102.8 126.2)" fill="#fff">
+      <g opacity=".7846">
+       <g transform="translate(24.8 4.376)" fill="#fefefe">
+        <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+       </g>
+       <g transform="translate(40.55 -13.81)" fill="#fbfbfb">
+        <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 22.51)" fill="#f9f9f9">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <g fill="#fefefe">
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(48.43 8.923)" fill="#fcfcfc">
+        <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+       </g>
+       <g transform="translate(64.18 -9.265)" fill="#fefefe">
+        <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <g fill="#fefefe">
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+         </g>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+       </g>
+       <g transform="translate(32.68 27.11)" fill="#fafafa">
+        <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+        </g>
+       </g>
+       <g transform="translate(72.06 13.47)" fill="#fbfbfb">
+        <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+        </g>
+        <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+         <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+         <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+         <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+         <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+         <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+         <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+        </g>
+       </g>
+       <g transform="translate(55.13 31.83)">
+        <g transform="translate(40.55 -13.81)" fill="#fafafa">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+        </g>
+        <g transform="translate(64.18 -9.265)" fill="#fdfdfd">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(55.13 -31.83)">
+        <g transform="translate(24.8 4.376)" fill="#f8f8f8">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+        </g>
+        <g transform="translate(40.55 -13.81)" fill="#fcfcfc">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+        </g>
+        <g transform="translate(48.43 8.923)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <g transform="translate(64.18 -9.265)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+        </g>
+        <g transform="translate(32.68 27.11)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <g fill="#fefefe">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <g transform="translate(56.31 31.66)" fill="#fdfdfd">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+        </g>
+        <g transform="translate(72.06 13.47)" fill="#fcfcfc">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)" fill="#fdfdfd">
+          <g fill="#fcfcfc">
+           <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z"/>
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+          </g>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)" fill="#f8f8f8">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <g fill="#f9f9f9">
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z"/>
+          </g>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(110.3 1.117e-5)">
+        <g transform="translate(24.8 4.376)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+        </g>
+        <g transform="translate(40.55 -13.81)" fill="#fafafa">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <g transform="translate(48.43 8.923)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+        </g>
+        <g transform="translate(64.18 -9.265)" fill="#fbfbfb">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+        </g>
+        <g transform="translate(32.68 27.11)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)" fill="#fefefe">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <g fill="#f8f8f8">
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z"/>
+          </g>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <g transform="translate(72.06 13.47)" fill="#fcfcfc">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <g fill="#f9f9f9">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(110.3 -63.66)" stroke-opacity=".7757">
+        <g transform="translate(24.8 4.376)" fill="#fbfbfb">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+        </g>
+        <g transform="translate(40.55 -13.81)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <g fill="#fcfcfc">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+        </g>
+        <g transform="translate(48.43 8.923)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <g fill="#fafafa">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)" fill="#fafafa">
+          <g fill="#f8f8f8">
+           <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z"/>
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+          </g>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+        </g>
+        <g transform="translate(64.18 -9.265)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <g transform="translate(32.68 27.11)" fill="#fcfcfc">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <g fill="#fdfdfd">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+        </g>
+        <g transform="translate(56.31 31.66)" fill="#f8f8f8">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+        </g>
+        <g transform="translate(72.06 13.47)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <g fill="#fefefe">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+        </g>
+        <g transform="translate(79.93 36.21)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <g fill="#f9f9f9">
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+          </g>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <g fill="#fafafa">
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+          </g>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <text x="-89.849213" y="-10.848016" fill="#000000" font-family="sans-serif" font-size="4.973px" stroke-width=".1243" style="line-height:1.25" xml:space="preserve"><tspan stroke-width=".1243"/></text>
+       </g>
+       <g transform="translate(.0003819 -63.66)">
+        <g transform="translate(24.8 4.376)" fill="#fefefe">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g fill="#fdfdfd">
+          <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+           <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+          </g>
+          <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+           <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+          </g>
+          <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+           <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(40.55 -13.81)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <g fill="#fdfdfd">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)" fill="#fdfdfd">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <g fill="#fdfdfd">
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z"/>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(48.43 8.923)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <g fill="#f9f9f9">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+        </g>
+        <g transform="translate(64.18 -9.265)" fill="#f8f8f8">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+        </g>
+        <g transform="translate(32.68 27.11)" fill="#f9f9f9">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+        </g>
+        <g transform="translate(56.31 31.66)" fill="#fcfcfc">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <g fill="#fdfdfd">
+           <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z"/>
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fcfcfc"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+        </g>
+        <g transform="translate(72.06 13.47)" fill="#fbfbfb">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <g fill="#fafafa">
+           <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z"/>
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+          </g>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)" fill="#f8f8f8">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <g fill="#f8f8f8">
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+           <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z"/>
+          </g>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fbfbfb"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(55.13 -95.48)">
+        <g transform="translate(32.68 27.11)" fill="#f8f8f8">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <g fill="#fcfcfc">
+           <path d="m4.032-34.76 20.07-34.76 20.07 34.76z"/>
+           <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z"/>
+           <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z"/>
+          </g>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f9f9f9"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fdfdfd"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#f8f8f8"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fafafa"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fdfdfd"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fbfbfb"/>
+         </g>
+        </g>
+        <g transform="translate(56.31 31.66)" fill="#fcfcfc">
+         <g transform="matrix(.1308 0 0 .1308 4.703 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f8f8f8"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fefefe"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 4.703 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f9f9f9"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 13.41)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#f9f9f9"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 4.317)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#f8f8f8"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fdfdfd"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 8.864)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fafafa"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fefefe"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 20.45 17.96)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fcfcfc"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fefefe"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#f9f9f9"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fefefe"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fafafa"/>
+         </g>
+         <g transform="matrix(.1308 0 0 .1308 12.58 22.51)">
+          <path d="m-36.11-34.76 40.14 3e-6 -20.07-34.76z" fill="#fefefe"/>
+          <path d="m-16.04-69.52 40.14 3e-6 -20.07 34.76z" fill="#fafafa"/>
+          <path d="m4.032-34.76 20.07-34.76 20.07 34.76z" fill="#fcfcfc"/>
+          <path d="m24.1 1.539e-8 -20.07-34.76 40.14 3e-6z" fill="#fafafa"/>
+          <path d="m4.032-34.76-20.07 34.76 40.14 1.959e-6z" fill="#fbfbfb"/>
+          <path d="m4.032-34.76-40.14-3e-6 20.07 34.76z" fill="#fdfdfd"/>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
