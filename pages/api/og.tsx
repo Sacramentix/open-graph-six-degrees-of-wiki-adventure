@@ -78,7 +78,7 @@ export default async function handler(req: NextRequest) {
               paddingBottom: '35px'
             }}
           >
-            <img style={{borderRadius: '10px'}} src={startPage.thumbnail.source} width={startPage.thumbnail.width} height={startPage.thumbnail.height} alt="The thumbnail of start page" />
+            <img style={{borderRadius: '10px', transformOrigin: '50% 100%', transform: 'scale(2)'}} src={startPage.thumbnail.source} width={startPage.thumbnail.width} height={startPage.thumbnail.height} alt="The thumbnail of start page" />
             <div
               style={{
                 display: 'flex',
@@ -107,7 +107,7 @@ export default async function handler(req: NextRequest) {
               paddingBottom: '35px'
             }}
           >
-            <img style={{borderRadius: '10px'}} src={endPage.thumbnail.source} width={endPage.thumbnail.width} height={endPage.thumbnail.height} alt="The thumbnail of end page" />
+            <img style={{borderRadius: '10px', transformOrigin: '50% 100%', transform: 'scale(2)'}} src={endPage.thumbnail.source} width={endPage.thumbnail.width} height={endPage.thumbnail.height} alt="The thumbnail of end page" />
             <div
               style={{
                 display: 'flex',
